@@ -1,0 +1,59 @@
+# Build folder (your chosen out-of-source build directory)
+build/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+Makefile
+*.ninja
+*.ninja.*
+
+# Visual Studio build folders
+Debug/
+Release/
+x64/
+x86/
+*.VC.db
+*.VC.opendb
+
+# vcpkg generated folders (do NOT commit these)
+vcpkg_installed/
+packages/
+buildtrees/
+downloads/
+
+# Visual Studio / MSVC
+.vs/
+*.slnx
+*.code-workspace
+*.sln
+*.slnf
+*.suo
+*.user
+*.userosscache
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vsconfig
+
+# Visual Studio Intellisense
+*.VC.db
+*.VC.opendb
+*.vsidx
+*.vscode
+*.cache
+
+# Logs
+*.log
+
+# Executables / binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# VSCode / JetBrains
+.vscode/
+.idea/

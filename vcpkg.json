@@ -1,0 +1,10 @@
+{
+  "name": "vulkan-engine",
+  "version": "0.1.0",
+  "dependencies": [
+    "volk",
+    "vulkan",
+    "glfw3",
+    "glm"
+  ]
+}
