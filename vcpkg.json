@@ -4,6 +4,7 @@
   "dependencies": [
     "volk",
     "vulkan",
+    "vk-bootstrap",
     "glfw3",
     "glm"
   ]
